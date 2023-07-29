@@ -7,5 +7,5 @@ The goal of this project is to develop a Command and Control (C2) systems by str
 Domains used in the project thus far
 | Fully Qualified Domain    | Majestic Million (Domain) | Majestic Million (Subdomain) |  Cisco Umbrella (Domain)  | Cisco Umbrella (Subdomain) | Date | Project | 
 |:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|
-| api-v2.soundcloud.com | 58    | NA | 7613 | 24219 |July 29, 2023 | SoundCloudCovertCDN |
-| cf-media.sndcdn.com   | 62996 | NA | 90721 | 11892 |July 29, 2023 | SoundCloudCovertCDN |
+| api-v2.soundcloud.com | 58    | NA | 7613 | 24219 |July 29, 2023 | [SoundCloudCovertCDN](https://github.com/reevesrs24/LivingOffAlexa/tree/main/SoundCloudCovertCDN) |
+| cf-media.sndcdn.com   | 62996 | NA | 90721 | 11892 |July 29, 2023 | [SoundCloudCovertCDN](https://github.com/reevesrs24/LivingOffAlexa/tree/main/SoundCloudCovertCDN) |
