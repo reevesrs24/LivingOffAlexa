@@ -11,3 +11,9 @@ This project utilizes the SoundCloud infrastructure as a covert CDN.  An executa
 5.  Next extract the download URL.  To do this use the developer tools for whatever choice of browser you prefer.  Once the `Download File` button has been clicked in the `More` list retrieve the URL.  The URK should begin with this domain and path `https://api-v2.soundcloud.com/tracks/<track id>/download?<params>`
 6.  Take the extracted URL for your download and in [main.cpp](https://github.com/reevesrs24/LivingOffAlexa/blob/main/SoundCloudCovertCDN/main.cpp) replace `<SoundCloud Download Track URL>` with the URL.
 7.  Build the `SoundClooudCovertCSN.sln` using visual studio with platform toolset `Visual Studio 2019 (v142)` and the C++ language standard `ISO C++17 Standard (/std:c++17)`
+</br>
+</br>
+<p align="center">
+  <img width="760" height="450" src="gifs/demo.gif">
+  <p align="center"><i>Exe being executed from hosted wav file</i></p>
+</p>
