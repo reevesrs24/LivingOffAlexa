@@ -1,7 +1,7 @@
 # SoundCloudCovertCDN
 Using SoundCloud as a Covert CDN
 
-This project utilizes the SoundCloud infrastructure as a covert CDN.  An executable file is embedded into a wav file using basic steganographic techniques which only causes minor pertubations to the original music.  The file is then uploaded to SoundCloud where red teams can store beacon files in a covert manner.  Utilizing legitimate domains makes it more difficult for IOC's to be developed and mitigates the change that these domains will be added to a blocklist.  
+This project utilizes the SoundCloud infrastructure as a covert CDN.  An executable file is embedded into a wav file using basic steganographic techniques which only causes minor pertubations to the original music.  The file is then uploaded to SoundCloud where red teams can store beacon files in a covert manner.  Utilizing legitimate domains makes it more difficult for IOC's to be developed and mitigates the chance that these domains will be added to a blocklist.  
 
 # How to Use
 1.  Create a wav file that is greater than 8 times the size of the x86 Windows Portable Executable (PE) file that you want to embed.
